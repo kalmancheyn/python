@@ -1,3 +1,4 @@
+#Az megadott szót 
 
 
 def main():
