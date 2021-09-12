@@ -1,4 +1,4 @@
-#Az megadott szót 
+#A megadott szót nagybetűvel írja ki
 
 
 def main():
