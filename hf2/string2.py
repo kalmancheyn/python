@@ -41,9 +41,9 @@ def verbing(s):
 # Példa: 'This dinner is not that bad!' ->
 #        This dinner is good!
 def not_bad(s):
-    # TODO...
-    return
-
+    if s.find("not") < s.find("bad"):
+        return s[:s.find("not")] + "good" + s[s.find("bad")+3:]
+    return s
 
 # G. front_back
 # Egy sztringet osszunk két részre, s a két részt nevezzük
@@ -56,11 +56,14 @@ def not_bad(s):
 # a-eleje + b-eleje + a-vége + b-vége
 # Például ha a = 'abcd' és b = 'xy', akkor az eredmény 'abxcdy' legyen.
 def front_back(a, b):
-    lengthA = len(a)
-    lengthB = len(b)
-    if (lengthA % 2 ==0) and (lengthB % 2 == 0):
-        s = a[:lengthA / 2] + b[:lengthB/2] + a[lengthA/2:] + b[lengthB:]
-    return s
+    if (len(a) % 2 == 0) and (len(b) % 2 == 0):
+        return a[:len(a) // 2] + b[:len(b) // 2] + a[len(a) // 2:] + b[len(b)//2:]
+    elif (len(a) % 2 != 0) and (len(b) % 2 != 0):
+        return a[:len(a) // 2 + 1] + b[:len(b) // 2 + 1] + a[len(a) // 2 + 1 :] + b[len(b) //2 + 1 :]
+    elif (len(a) % 2 == 0) and (len(b) % 2 != 0):
+        return a[:len(a) // 2] + b[:len(b) // 2 + 1] + a[len(a) // 2:] + b[len(b) //2 + 1 :]
+    elif (len(a) % 2 != 0) and (len(b) % 2 == 0):
+        return a[:len(a) // 2 + 1] + b[:len(b) // 2] + a[len(a) // 2 + 1 :] + b[len(b) //2:]
 
 
 # Egy egyszerű teszt fv. Kiírja az egyes fv.-ek visszaadott értékét, ill.
