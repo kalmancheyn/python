@@ -2,8 +2,7 @@
 
 def main():
     s = input("Nev:")
-    s = s.strip()
-    print("Üdvözlöm " + s + "!")
+    print("Üdvözlöm " + s.strip() + "!")
 
 if __name__=="__main__":
     main()
