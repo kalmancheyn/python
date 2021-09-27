@@ -1,4 +1,5 @@
 
+
 def isPalindrom(s):
     if s == s[::-1]:
         return True
