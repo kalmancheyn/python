@@ -31,6 +31,13 @@ def main():
     #s = 'The quick brown fox jumps over the lazy dog'
     #result = [len(value) for value in s.split()]
     #print(result)
+    #9
+    # sentence = 'The quick brown fox jumps over the lazy dog'
+    # result = [(word, len(word)) for word in sentence.split()]
+    # print(result)
+    #12
+    # result = [n*n for n in range(20) if n*n % 10 == 4]
+    # print(result)
 
 
 
