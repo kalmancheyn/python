@@ -31,6 +31,13 @@ def main():
     #s = 'The quick brown fox jumps over the lazy dog'
     #result = [len(value) for value in s.split()]
     #print(result)
+    #10
+    #result = [n for n in range(0, 10, 2)]
+    #print(result)
+    #11
+    #result = [n*n for n in range(0, 20, 2)]
+    #print(result)
+
 
 
 

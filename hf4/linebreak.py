@@ -10,8 +10,6 @@ def main():
             print(r.randint(0, 9), end="")
         print()
 
-    print()
-
 
 if __name__ == "__main__":
     main()
