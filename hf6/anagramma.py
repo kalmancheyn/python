@@ -1,7 +1,5 @@
-
-
 def normalize(s):
-    return s.lower().replace(" ","")
+    return s.lower().replace(" ", "")
 
 
 def anagramma1(s1, s2):
@@ -33,8 +31,8 @@ def anagramma2(s1, s2):
 def main():
     s1 = "Clint Eastwood"
     s2 = "Old west action"
-    print(anagramma1(s1,s2))
-    print(anagramma2(s1,s2))
+    print(anagramma1(s1, s2))
+    print(anagramma2(s1, s2))
 
 
 if __name__ == "__main__":
