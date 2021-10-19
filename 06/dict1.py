@@ -67,16 +67,19 @@ what you're at-- there"; and he threw down three or four gold pieces on
 the threshold. "You can tell me when I've worked through that," says he,
 looking as fierce as a commander."""
 
+
 def main():
-    list = TEXT.split()
+    li = TEXT.lower().split()
     d = {}
-    for word in list:
+    for word in li:
         if word in d.keys():
             d[word] += 1
         else:
             d[word] = 1
-    for k, v in d.items():
+
+    for k, v in sorted(d.items()):
         print(k, " -> ", v)
+
 
 #############################################################################
 
