@@ -528,6 +528,7 @@ def isCorrectPassphrase(s):
             summa += 1
     return summa
 
+
 def main():
     print(isCorrectPassphrase(TEXT))
 

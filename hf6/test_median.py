@@ -1,6 +1,7 @@
 from unittest import TestCase
 from median import isMedian
 
+
 class Test(TestCase):
     def test_is_median(self):
         assert isMedian([1, 2, 3, 4, 5]) == 3

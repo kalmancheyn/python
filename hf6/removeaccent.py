@@ -19,20 +19,20 @@ def removeAccentWithReplace(s):
 
 
 def removeAccentWithDict(s):
-    d = {}
-    d['á'] = 'a'; d['Á'] = 'A'; d['é'] = 'e'; d['É'] = 'E'
-    d['í'] = 'i'; d['Í'] = 'I'; d['ó'] = 'o'; d['Ó'] = 'O'
-    d['ö'] = 'o'; d['Ö'] = 'O'; d['ő'] = 'o'; d['Ő'] = 'O'
-    d['ú'] = 'u'; d['Ú'] = 'U'; d['ü'] = 'u'; d['Ü'] = 'U'
-    d['ű'] = 'u'; d['Ű'] = 'U'
+    d = {'á': 'a', 'Á': 'A', 'é': 'e', 'É': 'E', 'í': 'i', 'Í': 'I', 'ó': 'o', 'Ó': 'O', 'ö': 'o', 'Ö': 'O', 'ő': 'o',
+         'Ő': 'O', 'ú': 'u', 'Ú': 'U', 'ü': 'u', 'Ü': 'U', 'ű': 'u', 'Ű': 'U'}
 
-    for k,v in d.items():
-        print(k, " -> ", v)
+    for char in s:
+        for k, v in d.items():
+            if k == char:
+                s = s.replace(char, v)
+    return s
 
 
 def main():
     print(f"With Replace:\n{removeAccentWithReplace(TEXT)}")
-    print(removeAccentWithDict(TEXT))
+    print('*' * 100)
+    print(f"With dict:\n{removeAccentWithDict(TEXT)}")
 
 
 if __name__ == '__main__':

@@ -10,6 +10,7 @@ def sumOfDigits(number):
 
     return total
 
+
 def main():
     number = 2 ** 1000
     print(sumOfDigits(number))
