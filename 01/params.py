@@ -12,5 +12,6 @@ def main():
     name = sys.argv[1]
     hello(name)
 
-if __name__=="__main__":
+
+if __name__ == "__main__":
     main()

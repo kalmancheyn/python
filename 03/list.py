@@ -10,5 +10,6 @@ def main():
     a = sorted(a)
     print(a)
 
+
 if __name__=="__main__":
     main()
