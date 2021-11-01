@@ -5,13 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="411f510d-0762-40b3-9c2a-880bf2832bbd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Pelda_Peter_123456/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pelda_Peter_123456/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pelda_Peter_123456/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pelda_Peter_123456/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pelda_Peter_123456/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pelda_Peter_123456/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zipper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/python-01.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/python-02.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/python-03.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/python-04.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/python-05.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/python-06.pdf" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +30,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Pelda_Peter_123456" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Pelda_Patricia_12AB45" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager">
