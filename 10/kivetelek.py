@@ -11,7 +11,7 @@ def cat(fname):
     except FileNotFoundError as e:
         print(e)
         print("Warning!")
-#####
+
 
 if __name__ == "__main__":
     args = sys.argv[1:]

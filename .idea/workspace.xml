@@ -5,45 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82883c20-ed13-4c39-bf59-f8a29a085c46" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/10/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10/bullshit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10/bullshit_generate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10/kivetelek.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10/one.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10/rand.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10/rendezes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10/three.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10/two.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hf9/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hf9/.idea/hf9.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hf9/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hf9/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hf9/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hf9/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hf9/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hf9/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hf9/nyomtato.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hf9/palindromesum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hf9/palindromprim.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hf10/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hf10/.idea/hf10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hf10/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hf10/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hf10/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hf10/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hf10/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hf10/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hf10/alcatraz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hf10/bullshit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hf10/bullshit_generate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hf10/hatoslotto.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hf10/kivetel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hf10/rendezes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hf10/shuffled.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/embed03/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/embed03/.idea/embed03.iml" beforeDir="false" afterPath="$PROJECT_DIR$/10/.idea/10.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/embed03/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/10/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/embed03/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/10/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/embed03/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/10/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/embed03/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/10/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/embed03/05.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/embed03/07.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/embed03/caesar1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/embed03/caesardecy.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/embed03/caesarotp.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/embed03/caesarpublic.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/embed03/factor.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/embed03/otp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10/bullshit.py" beforeDir="false" afterPath="$PROJECT_DIR$/10/bullshit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10/kivetelek.py" beforeDir="false" afterPath="$PROJECT_DIR$/10/kivetelek.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hf5/munchausen.py" beforeDir="false" afterPath="$PROJECT_DIR$/hf5/munchausen.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +56,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/hf8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/hf10" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -84,14 +65,15 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\nkalm\github\python\hf10" />
       <recent name="C:\Users\nkalm\github\python\hf8" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\nkalm\github\python\nyomtato" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.kivetelek">
-    <configuration name="bullshit_generate" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.alcatraz">
+    <configuration name="alcatraz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -99,12 +81,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hf10" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10/bullshit_generate.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hf10/alcatraz.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -113,7 +95,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="kivetelek" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="hatoslotto" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -121,34 +103,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hf10" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10/kivetelek.py" />
-      <option name="PARAMETERS" value="one.txt two.txt three.txt" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="palindromesum (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hf9" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hf9/palindromesum.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hf10/hatoslotto.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,7 +117,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="rand" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="kivetel" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -165,12 +125,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hf10" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\nkalm\github\python\10\rand.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hf10/kivetel.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="munchausen" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hf5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hf5/munchausen.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -202,18 +184,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.rand" />
-      <item itemvalue="Python.bullshit_generate" />
-      <item itemvalue="Python.palindromesum (1)" />
       <item itemvalue="Python.rendezes" />
-      <item itemvalue="Python.kivetelek" />
+      <item itemvalue="Python.munchausen" />
+      <item itemvalue="Python.kivetel" />
+      <item itemvalue="Python.hatoslotto" />
+      <item itemvalue="Python.alcatraz" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.kivetelek" />
+        <item itemvalue="Python.alcatraz" />
+        <item itemvalue="Python.hatoslotto" />
+        <item itemvalue="Python.kivetel" />
         <item itemvalue="Python.rendezes" />
-        <item itemvalue="Python.bullshit_generate" />
-        <item itemvalue="Python.palindromesum (1)" />
+        <item itemvalue="Python.munchausen" />
       </list>
     </recent_temporary>
   </component>
@@ -237,7 +220,9 @@
       <workItem from="1637249412915" duration="5396000" />
       <workItem from="1637271651830" duration="1348000" />
       <workItem from="1637651626273" duration="4833000" />
-      <workItem from="1637918614209" duration="427000" />
+      <workItem from="1637918614209" duration="1977000" />
+      <workItem from="1638110488685" duration="3896000" />
+      <workItem from="1638176688990" duration="2088000" />
     </task>
     <servers />
   </component>
@@ -262,12 +247,17 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/python$hangrend_enum.coverage" NAME="hangrend_enum Coverage Results" MODIFIED="1636790850942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hf8" />
     <SUITE FILE_PATH="coverage/python$random.coverage" NAME="rand Coverage Results" MODIFIED="1637653339204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10" />
+    <SUITE FILE_PATH="coverage/python$kivetel.coverage" NAME="kivetel Coverage Results" MODIFIED="1638111213810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hf10" />
     <SUITE FILE_PATH="coverage/python$palindromprim.coverage" NAME="palindromprim Coverage Results" MODIFIED="1637272637584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hf9" />
     <SUITE FILE_PATH="coverage/python$02.coverage" NAME="02 Coverage Results" MODIFIED="1636783133848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hf1" />
+    <SUITE FILE_PATH="coverage/python$shuffled.coverage" NAME="shuffled Coverage Results" MODIFIED="1637919914261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hf10" />
+    <SUITE FILE_PATH="coverage/python$alcatraz.coverage" NAME="alcatraz Coverage Results" MODIFIED="1638178842761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hf10" />
     <SUITE FILE_PATH="coverage/python$main.coverage" NAME="main Coverage Results" MODIFIED="1637252921790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hf9" />
-    <SUITE FILE_PATH="coverage/python$rendezes.coverage" NAME="rendezes Coverage Results" MODIFIED="1637655360942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10" />
+    <SUITE FILE_PATH="coverage/python$hatoslotto.coverage" NAME="hatoslotto Coverage Results" MODIFIED="1638114268803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hf10" />
+    <SUITE FILE_PATH="coverage/python$rendezes.coverage" NAME="rendezes Coverage Results" MODIFIED="1638110837633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10" />
     <SUITE FILE_PATH="coverage/python$oalindromsum.coverage" NAME="oalindromsum Coverage Results" MODIFIED="1637253827012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hf9" />
-    <SUITE FILE_PATH="coverage/python$kivetelek.coverage" NAME="kivetelek Coverage Results" MODIFIED="1637656099395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10" />
+    <SUITE FILE_PATH="coverage/python$bullshit_generate__1_.coverage" NAME="bullshit_generate (1) Coverage Results" MODIFIED="1637919983350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hf10" />
+    <SUITE FILE_PATH="coverage/python$kivetelek.coverage" NAME="kivetelek Coverage Results" MODIFIED="1637919426638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10" />
     <SUITE FILE_PATH="coverage/python$sor.coverage" NAME="sor Coverage Results" MODIFIED="1636970371384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hf8" />
     <SUITE FILE_PATH="coverage/python$nyomtato.coverage" NAME="nyomtato Coverage Results" MODIFIED="1637272498436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hf9" />
     <SUITE FILE_PATH="coverage/python$palindromesum__1_.coverage" NAME="palindromesum (1) Coverage Results" MODIFIED="1637272827661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hf9" />

@@ -1,7 +1,7 @@
 
 
 def main():
-    for i in range(440000000):
+    for i in range(500000):
         summa = 0
         number = [int(d) for d in str(i)]
         for digit in number:
