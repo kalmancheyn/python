@@ -4,7 +4,7 @@ def pages(s: str) -> str:
     values: list[str] = s.split(",")
     li: list[int] = []
     for i in values:
-        if len(i) == 1:
+        if "-" not in i:
             li.append(int(i))
         else:
             for j in i:
