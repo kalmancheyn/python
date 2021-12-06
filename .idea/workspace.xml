@@ -5,24 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82883c20-ed13-4c39-bf59-f8a29a085c46" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/11/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11/.idea/11.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11/Ash_Tree_-_geograph.org.uk_-_590710.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11/ip_adress.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11/json_read.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11/letolt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11/person.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11/pygyak.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11/szavaz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hf11/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hf11/.idea/hf11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hf11/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hf11/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hf11/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hf11/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hf11/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hf11/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hf11/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hf9/nyomtato.py" beforeDir="false" afterPath="$PROJECT_DIR$/hf9/nyomtato.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11/szavaz.py" beforeDir="false" afterPath="$PROJECT_DIR$/11/szavaz.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +64,7 @@
       <recent name="C:\Users\nkalm\github\python\nyomtato" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ip_adress">
+  <component name="RunManager" selected="Python.main (1)">
     <configuration name="ip_adress" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -137,7 +131,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -145,12 +139,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hf11" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hf11/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -182,19 +176,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.main" />
       <item itemvalue="Python.letolt" />
       <item itemvalue="Python.szavaz" />
       <item itemvalue="Python.json_read" />
       <item itemvalue="Python.ip_adress" />
+      <item itemvalue="Python.main (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ip_adress" />
+        <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.json_read" />
         <item itemvalue="Python.szavaz" />
+        <item itemvalue="Python.ip_adress" />
         <item itemvalue="Python.letolt" />
-        <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
   </component>
@@ -222,6 +216,7 @@
       <workItem from="1638110488685" duration="3896000" />
       <workItem from="1638176688990" duration="2088000" />
       <workItem from="1638256049791" duration="5370000" />
+      <workItem from="1638694052782" duration="3102000" />
     </task>
     <servers />
   </component>
@@ -244,12 +239,13 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/python$json_read.coverage" NAME="json_read Coverage Results" MODIFIED="1638260378680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11" />
+    <SUITE FILE_PATH="coverage/python$json_read.coverage" NAME="json_read Coverage Results" MODIFIED="1638694750648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11" />
+    <SUITE FILE_PATH="coverage/python$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1638696149860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hf11" />
     <SUITE FILE_PATH="coverage/python$letolt.coverage" NAME="letolt Coverage Results" MODIFIED="1638258175569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11" />
-    <SUITE FILE_PATH="coverage/python$szavaz.coverage" NAME="szavaz Coverage Results" MODIFIED="1638259029155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11" />
+    <SUITE FILE_PATH="coverage/python$szavaz.coverage" NAME="szavaz Coverage Results" MODIFIED="1638694289168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11" />
     <SUITE FILE_PATH="coverage/python$hatoslotto.coverage" NAME="hatoslotto Coverage Results" MODIFIED="1638256985721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hf10" />
     <SUITE FILE_PATH="coverage/python$main.coverage" NAME="main Coverage Results" MODIFIED="1638257457432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11" />
-    <SUITE FILE_PATH="coverage/python$ip_adress.coverage" NAME="ip_adress Coverage Results" MODIFIED="1638261304010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11" />
+    <SUITE FILE_PATH="coverage/python$ip_adress.coverage" NAME="ip_adress Coverage Results" MODIFIED="1638694266642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11" />
     <SUITE FILE_PATH="coverage/python$nyomtato.coverage" NAME="nyomtato Coverage Results" MODIFIED="1638256446149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hf9" />
     <SUITE FILE_PATH="coverage/python$naprendszer.coverage" NAME="naprendszer Coverage Results" MODIFIED="1638256153861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hf10" />
   </component>
