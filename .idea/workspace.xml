@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82883c20-ed13-4c39-bf59-f8a29a085c46" name="Changes" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/Kalmanchey_Nandor_G4DI1I/.idea/Kalmanchey_Nandor_G4DI1I.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Kalmanchey_Nandor_G4DI1I/feladat1/example.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Kalmanchey_Nandor_G4DI1I/feladat2/example.php" afterDir="false" />
@@ -71,6 +72,9 @@
       <change beforePath="$PROJECT_DIR$/Kalmanchey_Nandor_G4DI1I/feladat4/feladat4_1.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Kalmanchey_Nandor_G4DI1I/feladat4/feladat4_2.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Kalmanchey_Nandor_G4DI1I/zh.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Kalmanchey_Nandor_G4DI1I/zh.pdf" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> 33a90ecfa88813b3fc4bf6c55e31834a18ce242f
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -294,16 +298,5 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/python$json_read.coverage" NAME="json_read Coverage Results" MODIFIED="1638694750648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11" />
-    <SUITE FILE_PATH="coverage/python$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1638696149860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hf11" />
-    <SUITE FILE_PATH="coverage/python$letolt.coverage" NAME="letolt Coverage Results" MODIFIED="1638258175569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11" />
-    <SUITE FILE_PATH="coverage/python$szavaz.coverage" NAME="szavaz Coverage Results" MODIFIED="1638694289168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11" />
-    <SUITE FILE_PATH="coverage/python$hatoslotto.coverage" NAME="hatoslotto Coverage Results" MODIFIED="1638256985721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hf10" />
-    <SUITE FILE_PATH="coverage/python$main.coverage" NAME="main Coverage Results" MODIFIED="1638257457432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11" />
-    <SUITE FILE_PATH="coverage/python$ip_adress.coverage" NAME="ip_adress Coverage Results" MODIFIED="1638694266642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11" />
-    <SUITE FILE_PATH="coverage/python$nyomtato.coverage" NAME="nyomtato Coverage Results" MODIFIED="1638256446149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hf9" />
-    <SUITE FILE_PATH="coverage/python$naprendszer.coverage" NAME="naprendszer Coverage Results" MODIFIED="1638256153861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hf10" />
   </component>
 </project>
