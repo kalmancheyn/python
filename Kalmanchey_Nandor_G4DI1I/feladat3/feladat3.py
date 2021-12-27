@@ -1,26 +1,21 @@
+import json
+from pprint import pprint
 
-def pascalTriangle(n):
-    row = [1]
-    y = [0]
-    for i in range(n):
-        row = [left+right for left, right in zip(row+y, y+row)]
-    return row
+
+def is_palindrome(x):
+    print(x)
+    s = str(x)
+    if s == s[::-1]:
+        return True
+    return False
 
 
 def main():
-
-    index = -2
-    while index != -1:
-        index = int(input("A sor indexe (kilépés: 0): "))
-        index -= 1
-        if index == -1:
-            break
-        x = pascalTriangle(index)
-        for i in x:
-            print(f"{i} ", end="")
-        print()
-
-    print("bye")
+    with open("primes.json", "r") as f:
+        d = json.load(f)
+    for k, v in d.items():
+        if is_palindrome(v):
+            print(v)
 
 
 if __name__ == "__main__":

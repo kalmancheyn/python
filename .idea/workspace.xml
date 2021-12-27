@@ -5,18 +5,72 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82883c20-ed13-4c39-bf59-f8a29a085c46" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/hf11/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hf11/.idea/hf11.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hf11/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hf11/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hf11/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hf11/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hf11/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hf11/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hf11/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kalmanchey_Nandor_G4DI1I/.idea/Kalmanchey_Nandor_G4DI1I.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kalmanchey_Nandor_G4DI1I/feladat1/example.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kalmanchey_Nandor_G4DI1I/feladat2/example.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kalmanchey_Nandor_G4DI1I/feladat2/primes.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kalmanchey_Nandor_G4DI1I/feladat2/primes.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kalmanchey_Nandor_G4DI1I/feladat3/primes.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kalmanchey_Nandor_G4DI1I/feladat4/feladat4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pelda_Panna_12AB45/.idea/Pelda_Panna_12AB45.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pelda_Panna_12AB45/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pelda_Panna_12AB45/feladat1/example.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pelda_Panna_12AB45/feladat1/feladat1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pelda_Panna_12AB45/feladat1/feladat1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pelda_Panna_12AB45/feladat1/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pelda_Panna_12AB45/feladat2/example.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pelda_Panna_12AB45/feladat2/feladat2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pelda_Panna_12AB45/feladat2/feladat2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pelda_Panna_12AB45/feladat2/primes.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pelda_Panna_12AB45/feladat3/feladat3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pelda_Panna_12AB45/feladat3/feladat3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pelda_Panna_12AB45/feladat4/feladat4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pelda_Panna_12AB45/feladat4/feladat4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pelda_Panna_12AB45/zh.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hf11/Kalmanchey_Nandor_G4DI1I/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hf11/Kalmanchey_Nandor_G4DI1I/.idea/Pelda_Patricia_12AB45.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hf11/Kalmanchey_Nandor_G4DI1I/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hf11/Kalmanchey_Nandor_G4DI1I/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hf11/Kalmanchey_Nandor_G4DI1I/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hf11/Kalmanchey_Nandor_G4DI1I/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hf11/Kalmanchey_Nandor_G4DI1I/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hf11/Kalmanchey_Nandor_G4DI1I/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hf11/Kalmanchey_Nandor_G4DI1I/feladat1/feladat1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hf11/Kalmanchey_Nandor_G4DI1I/feladat1/feladat1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hf11/Kalmanchey_Nandor_G4DI1I/feladat1/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hf11/Kalmanchey_Nandor_G4DI1I/feladat2/feladat2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hf11/Kalmanchey_Nandor_G4DI1I/feladat2/feladat2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hf11/Kalmanchey_Nandor_G4DI1I/feladat3/feladat3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hf11/Kalmanchey_Nandor_G4DI1I/feladat3/feladat3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hf11/Kalmanchey_Nandor_G4DI1I/feladat4/data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hf11/Kalmanchey_Nandor_G4DI1I/feladat4/feladat4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hf11/Kalmanchey_Nandor_G4DI1I/feladat4/feladat4_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hf11/Kalmanchey_Nandor_G4DI1I/feladat4/feladat4_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hf11/Kalmanchey_Nandor_G4DI1I/zh.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_foliak/python-07.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_foliak/python-08.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_foliak/python-09.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_foliak/python-10.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11/szavaz.py" beforeDir="false" afterPath="$PROJECT_DIR$/11/szavaz.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kalmanchey_Nandor_G4DI1I.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Kalmanchey_Nandor_G4DI1I.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kalmanchey_Nandor_G4DI1I/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kalmanchey_Nandor_G4DI1I/.idea/Pelda_Patricia_12AB45.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kalmanchey_Nandor_G4DI1I/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Kalmanchey_Nandor_G4DI1I/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kalmanchey_Nandor_G4DI1I/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Kalmanchey_Nandor_G4DI1I/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kalmanchey_Nandor_G4DI1I/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Kalmanchey_Nandor_G4DI1I/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kalmanchey_Nandor_G4DI1I/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Kalmanchey_Nandor_G4DI1I/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kalmanchey_Nandor_G4DI1I/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Kalmanchey_Nandor_G4DI1I/README.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kalmanchey_Nandor_G4DI1I/feladat1/feladat1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Kalmanchey_Nandor_G4DI1I/feladat1/feladat1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kalmanchey_Nandor_G4DI1I/feladat1/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Kalmanchey_Nandor_G4DI1I/feladat1/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kalmanchey_Nandor_G4DI1I/feladat2/feladat2.png" beforeDir="false" afterPath="$PROJECT_DIR$/Kalmanchey_Nandor_G4DI1I/feladat2/feladat2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kalmanchey_Nandor_G4DI1I/feladat2/feladat2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Kalmanchey_Nandor_G4DI1I/feladat2/feladat2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kalmanchey_Nandor_G4DI1I/feladat3/feladat3.png" beforeDir="false" afterPath="$PROJECT_DIR$/Kalmanchey_Nandor_G4DI1I/feladat3/feladat3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kalmanchey_Nandor_G4DI1I/feladat3/feladat3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Kalmanchey_Nandor_G4DI1I/feladat3/feladat3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kalmanchey_Nandor_G4DI1I/feladat4/data.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kalmanchey_Nandor_G4DI1I/feladat4/feladat4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Kalmanchey_Nandor_G4DI1I/feladat4/feladat4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kalmanchey_Nandor_G4DI1I/feladat4/feladat4_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kalmanchey_Nandor_G4DI1I/feladat4/feladat4_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kalmanchey_Nandor_G4DI1I/zh.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Kalmanchey_Nandor_G4DI1I/zh.pdf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +102,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/hf10" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -217,6 +271,9 @@
       <workItem from="1638176688990" duration="2088000" />
       <workItem from="1638256049791" duration="5370000" />
       <workItem from="1638694052782" duration="3102000" />
+      <workItem from="1638860018221" duration="194000" />
+      <workItem from="1638861701904" duration="2624000" />
+      <workItem from="1640591560872" duration="633000" />
     </task>
     <servers />
   </component>

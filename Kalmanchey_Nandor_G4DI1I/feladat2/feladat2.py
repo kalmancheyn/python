@@ -1,19 +1,25 @@
+import json
 
 
 def main():
-    c = 0
-    while c < 1000:
-        a = 0
-        b = 0
-        c = 0
-        for i in range(1000):
-            a += 1
-            for j in range(1000):
-                b += 1
-                for k in range(1000):
-                    c += 1
-            if a < b//100 < c//100000:
-                print(f"{a}, {b}, {c}")
+    i = 0
+    data = []
+    with open("primes.php", "r") as f:
+        for line in f:
+            if i != 0:
+                line = line.split(">")
+                line = line[1].split(",")
+                data.append(line[0])
+            i += 1
+    print("-> primes.php beolvasva")
+    data.remove("")
+    d = {}
+    d["description"] = "list of prime numbers"
+    d["data"] = data
+    with open("primes.json", "w") as f:
+        json.dump(d, f)
+    print("-> primes.json létrehozva")
 
-if __name__ == '__main__':
+
+if __name__ == "__main__":
     main()

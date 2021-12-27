@@ -20,7 +20,7 @@
   0 pontot kapnak.
 
 * Minden egyes feladatot a feladat saját alkönyvtárában kell kidolgozni.
-  A mellékelt üres feladatN.py állományok tartalmát írják meg.
+  A mellékelt üres `feladatN.py` állományok tartalmát írják meg.
   Az egyes feladatokhoz szükséges input fájlok a megfelelő
   alkönyvtárakban találhatók meg.
 
@@ -35,9 +35,6 @@
 
   Ha egy feladat indításkor hibát produkál, arra 0 pontot fogok adni.
   Hiba alatt a szintaktikai hibát, ill. a le nem kezelt kivételeket értem.
-
-  A kivételkezelést még nem vettük, így a felmerülő hibákat az eddig tanult
-  módszerekkel kell megoldani!
 
 * A feladatok megoldásaiban az eddig tanult technikákat lehet
   használni.
